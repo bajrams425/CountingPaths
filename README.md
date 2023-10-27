@@ -26,8 +26,8 @@ To execute the program (prefered with python 3.10):
 ### CMD/BASH only
 1. Copy the code from counting_paths_problem_CMD_only.py and put it in an online python compiler like https://www.programiz.com/python-programming/online-compiler/ and hit the Run button, OR;
 2. Download the file counting_paths_problem_CMD_only.py and run it via:
-* python \counting_paths_problem_CMD_only.py
+  * python \counting_paths_problem_CMD_only.py
 
 ### Using tKinter interface
 1. Download the file counting_paths_problem_with_interface.py and run it via:
-* python \counting_paths_problem_CMD_only.py
+  * python \counting_paths_problem_CMD_only.py
